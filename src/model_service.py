@@ -45,8 +45,16 @@ class ModelService:
 
         Parameters
         ----------
-        text : str
-            Input text message.
+        city : str
+            City name.
+        district : int
+            District name.
+        floor : int
+            Floor number.
+        rooms : int
+            Room numbers.
+        sq : float
+            Square meters of house.
 
         Returns
         -------
