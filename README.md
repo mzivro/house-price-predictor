@@ -139,7 +139,7 @@ docker run -p 8000:8000 house-price-predictor
 
 ## Dataset
 
-The project uses the **House Prices in Poland** dataset from Kaggle, downloaded via KaggleHub. Dataset is made by **Dawid Cegielski**.
+The project uses the **House Prices in Poland** dataset from Kaggle, downloaded via KaggleHub. Dataset is made by **Dawid Cegielski** and all rights of the dataset belongs to him.
 
 Dataset source:
 https://www.kaggle.com/datasets/dawidcegielski/house-prices-in-poland
