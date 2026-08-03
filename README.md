@@ -1,4 +1,4 @@
-# SMS Spam Classifier
+# House Price Predictor
 
 A machine learning web application for house price prediction in Poland built with **FastAPI**, **Streamlit**, and **scikit-learn**. The application predicts a house price in Warsaw, Kraków or Poznań in **PLN** currency using One-Hot Encoder and Random Forest regressor.
 
